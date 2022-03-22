@@ -1,0 +1,15 @@
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\bin\Debug\netcoreapp3.0\ArckDan.MayDay.Repositorio.deps.json
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\bin\Debug\netcoreapp3.0\ArckDan.MayDay.Repositorio.runtimeconfig.json
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\bin\Debug\netcoreapp3.0\ArckDan.MayDay.Repositorio.runtimeconfig.dev.json
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\bin\Debug\netcoreapp3.0\ArckDan.MayDay.Repositorio.dll
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\bin\Debug\netcoreapp3.0\ArckDan.MayDay.Repositorio.pdb
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\bin\Debug\netcoreapp3.0\ArckDan.MayDay.Domain.dll
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\bin\Debug\netcoreapp3.0\ArckDan.MayDay.Domain.pdb
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\obj\Debug\netcoreapp3.0\ArckDan.MayDay.Repositorio.csprojAssemblyReference.cache
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\obj\Debug\netcoreapp3.0\ArckDan.MayDay.Repositorio.AssemblyInfoInputs.cache
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\obj\Debug\netcoreapp3.0\ArckDan.MayDay.Repositorio.AssemblyInfo.cs
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\obj\Debug\netcoreapp3.0\ArckDan.MayDay.Repositorio.csproj.CoreCompileInputs.cache
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\obj\Debug\netcoreapp3.0\ArckDan.MayDay.Repositorio.csproj.CopyComplete
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\obj\Debug\netcoreapp3.0\ArckDan.MayDay.Repositorio.dll
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\obj\Debug\netcoreapp3.0\ArckDan.MayDay.Repositorio.pdb
+C:\ArckDan\Projetos\MayDay\v2\ArckDan.MayDay\ArckDan.MayDay.Repositorio\obj\Debug\netcoreapp3.0\ArckDan.MayDay.Repositorio.genruntimeconfig.cache
